@@ -9,7 +9,7 @@ wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/fi
 ```
 ###一键卸载代码
 ```
-wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/install_fs.sh | bash uninstall
+wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/uninstall_fs.sh |bash
 ```
 ### finalspeed操作命令
 
