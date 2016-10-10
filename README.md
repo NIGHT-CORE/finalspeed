@@ -14,14 +14,17 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/NIGHT-CORE/fina
 ### finalspeed操作命令
 
 启动： 
+```
 service finalspeed start
-
+```
 停止命令：
+```
 service finalspeed stop
-
+```
 状态命令（查看日志）：
+```
 service finalspeed status
-
+```
 ### finalspeed安装路径
 
 安装路径： /fs/
@@ -30,11 +33,13 @@ service finalspeed status
 
 ### 如何更改端口
 ####首次指定端口
+```
 mkdir -p /fs/cnf/
-
 echo 1234 > /fs/cnf/listen_port
+```
 ####再次更改端口
+```
 echo 1234 > /fs/cnf/listen_port
-
+```
 【1234】就是你要指定的端口号
 更改端口后需要重启fs
