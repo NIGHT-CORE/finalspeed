@@ -32,12 +32,12 @@ service finalspeed status
 日志路径：/fs/server.log
 
 ### 如何更改端口
-####首次指定端口
+####-----首次指定端口
 ```
 mkdir -p /fs/cnf/
 echo 1234 > /fs/cnf/listen_port
 ```
-####再次更改端口
+####----------再次更改端口
 ```
 echo 1234 > /fs/cnf/listen_port
 ```
