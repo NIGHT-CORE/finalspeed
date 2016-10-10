@@ -5,11 +5,11 @@
 91github地址：https://github.com/91yun/finalspeed
 ### 一键安装代码：
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/install_fs.sh && bash install_fs.sh
+wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/install_fs.sh |bash
 ```
 ###一键卸载代码
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/install_fs.sh && bash install_fs.sh uninstall
+wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/install_fs.sh | bash uninstall
 ```
 ### finalspeed操作命令
 
