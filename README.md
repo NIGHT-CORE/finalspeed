@@ -29,11 +29,12 @@ service finalspeed status
 日志路径：/fs/server.log
 
 ### 如何更改端口
-####首次指定
+####首次指定端口
 mkdir -p /fs/cnf/
-echo 1234 > /fs/cnf/listen_port
-####制定后再次更改
- echo 1234 > /fs/cnf/listen_port
- 
-【1234】就是你要制定的端口号
 
+echo 1234 > /fs/cnf/listen_port
+####再次更改端口
+echo 1234 > /fs/cnf/listen_port
+
+【1234】就是你要指定的端口号
+更改端口后需要重启fs
