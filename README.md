@@ -41,5 +41,4 @@ echo 1234 > /fs/cnf/listen_port
 ```
 echo 1234 > /fs/cnf/listen_port
 ```
-【1234】就是你要指定的端口号
-更改端口后需要重启fs
+【1234】就是你要指定的端口号,更改端口后需要重启fs
