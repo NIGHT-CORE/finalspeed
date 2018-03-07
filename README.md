@@ -2,8 +2,6 @@
 ### 说明
 修复了无法更改端口等bug
 
-感谢 fs的作者以及91yun的付出
-
 ### 一键安装代码：
 ```
 wget --no-check-certificate -qO- https://raw.githubusercontent.com/imazes/finalspeed/master/install_fs.sh |bash
