@@ -4,7 +4,6 @@
 
 感谢 fs的作者以及91yun的付出
 
-91github地址：https://github.com/91yun/finalspeed
 ### 一键安装代码：
 ```
 wget --no-check-certificate -qO- https://raw.githubusercontent.com/imazes/finalspeed/master/install_fs.sh |bash
