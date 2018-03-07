@@ -1,15 +1,17 @@
 # FinalSpeed
 ### 说明
+修复了无法更改端口等bug
+
 感谢 fs的作者以及91yun的付出
 
 91github地址：https://github.com/91yun/finalspeed
 ### 一键安装代码：
 ```
-wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/install_fs.sh |bash
+wget --no-check-certificate -qO- https://raw.githubusercontent.com/imazes/finalspeed/master/install_fs.sh |bash
 ```
 ###一键卸载代码
 ```
-wget --no-check-certificate -qO- https://raw.githubusercontent.com/NIGHT-CORE/finalspeed/master/uninstall_fs.sh |bash
+wget --no-check-certificate -qO- https://raw.githubusercontent.com/imazes/finalspeed/master/uninstall_fs.sh |bash
 ```
 ### finalspeed操作命令
 
