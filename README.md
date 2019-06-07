@@ -6,7 +6,7 @@
 ```
 wget --no-check-certificate -qO- https://raw.githubusercontent.com/imazes/finalspeed/master/install_fs.sh |bash
 ```
-###一键卸载代码
+### 一键卸载代码
 ```
 wget --no-check-certificate -qO- https://raw.githubusercontent.com/imazes/finalspeed/master/uninstall_fs.sh |bash
 ```
